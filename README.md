@@ -8,3 +8,4 @@ The Micro-Controller used is an ESP8266 based NodeMCU, which can be programmed b
 ## To-Do
 1) Add Wifi OTA Updater  
 2) Increase Security to for the lock  
+3) Add Reset Function with millis()
